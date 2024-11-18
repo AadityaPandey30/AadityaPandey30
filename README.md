@@ -23,6 +23,13 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 - Delivered high-quality projects on E-Commerce and Blogging websites.
 - Check out my best projects from [here](https://sites.google.com/view/aaditya-dev/home).
 
+**Full Stack Developer and AI Intern** (Sep 2024 - Oct 2024)
+- Scraped 10000 properties data for RightHome AI
+- Made the complete admin panel using MERN stack.
+- Made the Chatbot for the site using Next js
+- Implemented a RAG model to make the search results more effective.
+
+  
 **Full Stack Developer Intern** (Apr 2024 - Jun 2024)
 - Successfully scraped and processed data from 50+ websites.
 - Developed 15+ responsive site components, reducing site latency by 30%.
