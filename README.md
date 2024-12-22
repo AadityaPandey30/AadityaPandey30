@@ -7,7 +7,7 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 ### 🛠️ My Skill Stack:
 
 **Technical Skills:**
-- **Frontend:** HTML, Tailwind CSS, JavaScript, React.js
+- **Frontend:** HTML, Tailwind CSS, JavaScript, React.js, Next.js
 - **Backend:** Node.js, Express.js, MongoDB, Flask
 - **Languages:** Core Java, Python, JavaScript, C, C++
 - **Libraries/Tools:** OpenCV, Tkinter, Bot Automation, Data Analytics(NumPy, Pandas, MatPlotLib, Seaborn), Data Visualization(Plotly, D3.js, 
