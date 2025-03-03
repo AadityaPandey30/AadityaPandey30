@@ -57,6 +57,7 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 - [View All Certificates](https://drive.google.com/drive/folders/1O89zf3H9RNLUxi3RS_FH1tH7Ut-OTl-S)
 
 ### 🏅 Positions of Responsibility:
+- Coordinator, Outreach Activity, IIIT Una
 - Joint Secretary, ASTRAL IIITU
 - Design and Content Head, ASTRAL IIITU
 - Executive Member, Coding and Electronics Club IIITU
