@@ -29,7 +29,7 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 - Delivered 4+ high quality projects serving multiple clients for developing websites using MERN and NextJS
 - Performed the SEO of the fluencerdigital.com bringing it under top 5 and top 10 for multiple keywords.
 - Redesigned the website performing optimizations to reduce the latency by 4 seconds.
-- Lead projects as a Project Manager meeting tight deadlines and collaborating with the developers, designers and clients.
+- Lead projects as a Project Manager meeting tight deadlines, collaborating with the developers, designers and clients.
 
 **Full Stack Developer and AI Intern** (Sep 2024 - Oct 2024)
 - Scraped 10000 properties data for RightHome AI
