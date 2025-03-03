@@ -8,12 +8,13 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 
 **Technical Skills:**
 - **Frontend:** HTML, Tailwind CSS, JavaScript, React.js, Next.js
-- **Backend:** Node.js, Express.js, MongoDB, Flask
+- **Backend:** Node.js, Express.js, MongoDB, Flask, FastAPI, SQLite
 - **Languages:** Core Java, Python, JavaScript, C, C++
-- **Libraries/Tools:** OpenCV, Tkinter, Bot Automation, Data Analytics(NumPy, Pandas, MatPlotLib, Seaborn), Data Visualization(Plotly, D3.js, 
+- **Libraries/Tools:** OpenCV, Tkinter, Bot Automation, Data Analytics(NumPy, Pandas), Data Visualization(Plotly, D3.js, MatPlotLib, Seaborn)
+- **Deployment:** Azure, CI/CD, GitHub Actions, Vercel, Netlify, Render, etc
 
 **Tools:**
-- VS Code, PyCharm, Jupyter Notebook, Android Studio, Canva, Adobe Premiere
+- VS Code, PyCharm, Jupyter Notebook, Android Studio, Canva, Adobe Premiere, Capcut
 
 ### 🌟 Achievements:
 
@@ -22,6 +23,13 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 **Part-Time Freelancer:**
 - Delivered high-quality projects on E-Commerce and Blogging websites.
 - Check out my best projects from [here](https://sites.google.com/view/aaditya-dev/home).
+
+**Full Stack Developer, Data Analytics and Product Manager Intern** (Oct 2024 - Present)
+- Scraped 15000+ leads for Fluencer Digital
+- Delivered 4+ high quality projects serving multiple clients for developing websites using MERN and NextJS
+- Performed the SEO of the fluencerdigital.com bringing it under top 5 and top 10 for multiple keywords.
+- Redesigned the website performing optimizations to reduce the latency by 4 seconds.
+- Lead projects as a Project Manager meeting tight deadlines and collaborating with the developers, designers and clients.
 
 **Full Stack Developer and AI Intern** (Sep 2024 - Oct 2024)
 - Scraped 10000 properties data for RightHome AI
