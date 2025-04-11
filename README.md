@@ -24,8 +24,8 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 - Delivered high-quality projects on E-Commerce and Blogging websites.
 - Check out my best projects from [here](https://sites.google.com/view/aaditya-dev/home).
 
-**Full Stack Developer, Data Analytics and Product Manager Intern** (Oct 2024 - Present)
-- Scraped 15000+ leads for Fluencer Digital
+**Full Stack Developer, Data Analytics and Project Manager Intern** (Oct 2024 - Present)
+- Scraped 20000+ leads for Fluencer Digital developing AI automation
 - Delivered 4+ high quality projects serving multiple clients for developing websites using MERN and NextJS
 - Performed the SEO of the fluencerdigital.com bringing it under top 5 and top 10 for multiple keywords.
 - Redesigned the website performing optimizations to reduce the latency by 4 seconds.
@@ -37,7 +37,6 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 - Made the Chatbot for the site using Next js
 - Implemented a RAG model to make the search results more effective.
 
-  
 **Full Stack Developer Intern** (Apr 2024 - Jun 2024)
 - Successfully scraped and processed data from 50+ websites.
 - Developed 15+ responsive site components, reducing site latency by 30%.
