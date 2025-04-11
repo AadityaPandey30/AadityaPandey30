@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aaditya Pandey
 
-## 🚀 Full Stack MERN and Python Developer
+## 🚀 Full Stack MERN/ Python Developer and AI Automation Enthusiast
 
 Crafting seamless, efficient, and innovative solutions to ease your business needs. Let's build your brand together!
 
