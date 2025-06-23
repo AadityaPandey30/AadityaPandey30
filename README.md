@@ -25,22 +25,22 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 - Check out my best projects from [here](https://sites.google.com/view/aaditya-dev/home).
 
 **Tech Lead, Full Stack Developer and Data Analytics Intern** (Oct 2024 - Present)
-- Scraped 20000+ leads for Fluencer Digital developing AI automation
-- Delivered 4+ high quality projects serving multiple clients for developing websites using MERN and NextJS
+- Scraped 50k+ leads for Fluencer Digital developing AI automation
+- Delivered 5+ high quality projects serving multiple clients across the globe for developing websites using MERN and NextJS
 - Performed the SEO of the fluencerdigital.com bringing it under top 5 and top 10 for multiple keywords.
-- Redesigned the website performing optimizations to reduce the latency by 4 seconds.
-- Lead projects as a Project Manager meeting tight deadlines, collaborating with the developers, designers and clients.
+- Redesigned the website performing optimizations to reduce the latency by 6 seconds (60%).
+- Lead projects as a Project Manager (Tech Lead) meeting tight deadlines, collaborating with the developers, designers, stakeholders and clients.
 
 **Full Stack Developer and AI Engineer Intern** (Sep 2024 - Oct 2024)
-- Scraped 10000 properties data for RightHome AI
+- Scraped 20k+ properties data for RightHome AI
 - Made the complete admin panel using MERN stack.
 - Made the Chatbot for the site using Next js
 - Implemented a RAG model to make the search results more effective.
 
 **Full Stack Developer Intern** (Apr 2024 - Jun 2024)
 - Successfully scraped and processed data from 50+ websites.
-- Developed 15+ responsive site components, reducing site latency by 30%.
-- Created automation bots, reducing manual data processing time by 40%.
+- Developed 25+ responsive site components (using Next.js), reducing site latency by 30%.
+- Crafted the admin side containing the user lead with 5+ key metrics analysis using MERN stack and Python.
 
 **Frontend Developer Intern** (Nov 2023 - Feb 2024)
 - Designed responsive websites, enhancing online presence and customer engagement.
@@ -68,7 +68,7 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 - Data Analysis and Visualization
 
 ### 📫 How to Reach Me:
-- Email: [aprock3004@gmail.com](mailto:aprock3004@gmail.com)
+- Email: [aadityaworks01@gmail.com](mailto:aadityaworks01@gmail.com)
 - LinkedIn: [linkedin.com/in/AadityaPandey](https://www.linkedin.com/in/aaditya-pandey-ab2829257)
 
 ### 😄 Pronouns:
