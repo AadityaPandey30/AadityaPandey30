@@ -74,5 +74,5 @@ Crafting seamless, efficient, and innovative solutions to ease your business nee
 ### 😄 Pronouns:
 - He/Him
 
-Check out my [GitHub Profile](https://github.com/AadityaPandey30) for more!
+Check out my [LinkedIn Profile](https://www.linkedin.com/in/aaditya-pandey-ab2829257/) for more!
 
